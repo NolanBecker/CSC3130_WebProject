@@ -3,8 +3,7 @@ import datetime
 
 today = str(datetime.datetime.now()).split(' ')[0]
 
-sites = {'Zillow': 'http://zillow.com/',
-         'Belmont':'http://www.belmont.edu/'}
+sites = {'Allrecipes': 'http://allrecipes.com/recipes/?sort=Newest'}
 
 for name, link in sites.items():
     response = requests.get(link)
