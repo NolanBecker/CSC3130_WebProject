@@ -3,8 +3,9 @@ import datetime
 
 today = str(datetime.datetime.now().date())
 
-sites = {'Zillow': 'http://zillow.com/',
-         'GameStats': 'http://na.op.gg/statistics/champion/'
+sites = {'AllRecipes': 'http://allrecipes.com/recipes/?sort=Newest',
+         'Epicurius': 'http://www.epicurious.com/search/?sort=newest',
+         'Delish': 'http://www.delish.com/recipes/'
          }
 
 browser = webdriver.Chrome()
