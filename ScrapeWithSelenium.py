@@ -1,10 +1,11 @@
 from selenium import webdriver
 import datetime
+import os
 
 today = str(datetime.datetime.now().date())
 
 sites = {'AllRecipes': 'http://allrecipes.com/recipes/?sort=Newest',
-         'Epicurius': 'http://www.epicurious.com/search/?sort=newest',
+         'Epicurius': 'http://www.epicurious.com/search/?sort=newest&content=recipe',
          'Delish': 'http://www.delish.com/recipes/'
          }
 
@@ -14,7 +15,9 @@ for name, link in sites.items():
     response = browser.get(link)
     html = browser.page_source
 
-    fileName = today + '.' + name + '.html'
+    if not os.path.exists('HTML/Selenium/'):
+        os.makedirs('HTML/Selenium/')
+    fileName = 'HTML/Selenium/' + today + '.' + name + '.html'
     outfile = open(fileName, 'w')
     outfile.write(html)
     outfile.close()
