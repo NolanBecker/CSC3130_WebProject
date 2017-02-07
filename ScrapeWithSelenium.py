@@ -15,9 +15,10 @@ for name, link in sites.items():
     response = browser.get(link)
     html = browser.page_source
 
-    if not os.path.exists('HTML/Selenium/'):
-        os.makedirs('HTML/Selenium/')
-    fileName = 'HTML/Selenium/' + today + '.' + name + '.html'
+    path = '/home/nolan/Programming/CSC3130_WebProject/HTML/Selenium'
+    if not os.path.exists(path):
+        os.makedirs(path)
+    fileName = path + today + '.' + name + '.html'
     outfile = open(fileName, 'w')
     outfile.write(html)
     outfile.close()

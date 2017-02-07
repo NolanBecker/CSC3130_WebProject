@@ -27,12 +27,14 @@ for section in soup.find_all('section', role='main'):
 
             response.append(OrderedDict([('Name', name),
                                          ('Description', description),
-                                         ('Rating', rating),
+                                         ('Rating', rating+'/4'),
                                          ('Reviews', reviews)]))
+            print(name)
 
-if not os.path.exists('JSON/'):
-    os.makedirs('JSON/')
-postingsFile = 'JSON/' + today + '.Epicurious.json'
+path = '/home/nolan/Programming/CSC3130_WebProject/JSON/'
+if not os.path.exists(path):
+    os.makedirs(path)
+postingsFile = path + today + '.Epicurious.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=False, indent=2)

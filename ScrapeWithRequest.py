@@ -12,9 +12,10 @@ for name, link in sites.items():
     response = requests.get(link)
     html = response.content
 
-    if not os.path.exists('HTML/'):
-        os.makedirs('HTML/')
-    fileName = 'HTML/' + today + '.' + name + '.html'
+    path = '/home/nolan/Programming/CSC3130_WebProject/HTML/'
+    if not os.path.exists(path):
+        os.makedirs(path)
+    fileName = path + today + '.' + name + '.html'
     outfile = open(fileName, "wb")
     outfile.write(html)
     outfile.close()
