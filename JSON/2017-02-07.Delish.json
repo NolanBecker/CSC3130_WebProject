@@ -1,0 +1,524 @@
+[
+  {
+    "Name": "Linguine with Clams",
+    "Description": "Get ready to feel like you're out to eat somewhere super fancy.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Confetti Cookie Dough Ball",
+    "Description": "This is the only ball you need to see drop on New Year's Eve.",
+    "Time": " 2hrs 15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Garlic Parmesan Salmon",
+    "Description": "Smothered in parsley and Parm, you need this herb-crusted salmon.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Melted Snowman Cookies",
+    "Description": "*Guaranteed to melt your heart*",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Crab Mac & Cheese",
+    "Description": "THIS is the fancy mac worthy of your holiday table.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Parmesan Shrimp Pasta",
+    "Description": "Shrimp, spinach, tomatoes, garlic? Yes, this is the pasta of your dreams.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Reese's Peanut Butter Ball",
+    "Description": "PB lovers, listen up!",
+    "Time": " 1hr 20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Honey Garlic Chicken",
+    "Description": "A skillet chicken dinner so easy you'll be impressed with yourself.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Pumpkin Butterscotch Muffins",
+    "Description": "It's fall in a cupcake liner.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Sun-Dried Tomato Alfredo",
+    "Description": "Alfredo lovers, you need to try this chicken angel hair version.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Mongolian Beef & Broccoli",
+    "Description": "The sauce in this Mongolian beef is fire.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Spaghetti Frittata",
+    "Description": "This is the most genius way to use up leftover pasta.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Balsamic Glazed Chicken",
+    "Description": "This sweet, tangy chicken is the perfect weeknight dinner.",
+    "Time": "  40min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "'Steel Magnolias'-Inspired Cuppa Cuppa Cuppa Cake",
+    "Description": "Dolly Parton would approve.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Slutty Cheesecake Bars",
+    "Description": "These will definitely get around.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Buffalo Chicken Casserole",
+    "Description": "Low carb, high rewards.",
+    "Time": "  55min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Shrimp Drunken Noodles",
+    "Description": "We're drunk in love.",
+    "Time": "  55min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Breakfast Nachos",
+    "Description": "Get in my belly.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Donut Fries",
+    "Description": "Donut even think about touching my fries.",
+    "Time": "  15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "French Onion Penne",
+    "Description": "The perfect hybrid of pasta and the classic soup.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Chili Cheese Burgers",
+    "Description": "These are saucy and SO cheesy.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Bacon Cheeseburger Pie",
+    "Description": "That bacon lattice though.",
+    "Time": " 1hr",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cookie Pops",
+    "Description": "They're a milk dunking game-changer.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Italian Sausage Stuffed Zucchini",
+    "Description": "Zucchini boats stuffed with sausage and breadcrumbs is the bomb low-carb dinner.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Lasagna Stuffed Zucchini",
+    "Description": "Lightening up lasagna with zucchini is one of our fave low-carb dinner hacks.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Garlic-Lemon Salmon",
+    "Description": "Fall in love with the ultimate summer catch.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "'Clueless'-Inspired Cookie Dough Log",
+    "Description": "Here's what would've happened if Cher hadn't burned the cookie dough. (Spoiler: It's delish.)",
+    "Time": "  22min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Pretzel Fluffernutters",
+    "Description": "Peanut butter, marshmallow, and pretzels are the perfect indoor s'mores.",
+    "Time": "  10min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Nutella Pops",
+    "Description": "Move over, fudgsicles! These homemade popsicles are just as easy as they are insanely delicious.",
+    "Time": " 3hrs 5min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Rolo-Stuffed Ritz ",
+    "Description": "Crunchy Ritz + melty Rolos are a sweet-salty match made in snack heaven!",
+    "Time": "  10min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Three-Ingredient Spaghetti",
+    "Description": "This simple pasta is a tangy, cheesy flavor bomb.",
+    "Time": "  15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Nutella Cool Whip Pie",
+    "Description": "This cool, creamy pie is a Nutella lover's dream.",
+    "Time": " 1hr 15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cinnabun Cake",
+    "Description": "Whether you eat this for breakfast or dessert, cinnamon roll cake is a must.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Zucchini Brownies",
+    "Description": "The sweetest way to get your veggie fix.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": " Whoopie Cake",
+    "Description": "Giant whoopie cake > whoopie pie.",
+    "Time": " 1hr",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Muffin Tin Cherry Pies",
+    "Description": "Who needs a regular cherry pie when you can have a MINI one?!",
+    "Time": " 1hr",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Frozen Cheesecake on a Stick",
+    "Description": "This hack for store-bought cheesecake is genius.",
+    "Time": "  15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Penne Puttanesca",
+    "Description": "Welcome to flavor town.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Tex-Mex Chicken Pizza",
+    "Description": "This pizza's got an addicting southwestern kick.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Snickerdoodle Crisp",
+    "Description": "Sweet fruit + cookie topping = #summerdessertgoals.",
+    "Time": " 1hr 20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Stuffed Onion Soup Burgers",
+    "Description": "Gruyere or go home.",
+    "Time": " 1hr 20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Lemon Butter Chicken Pasta",
+    "Description": "Meet your new favorite pasta combo.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Freedom Bark",
+    "Description": "This stunning red, white, and blue bark tastes like freedom.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Breakfast Fried Rice",
+    "Description": "Rice for breakfast will become your new favorite way to start the day.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "S'mores Icebox Cake",
+    "Description": "The marshmallow whipped cream is everything.",
+    "Time": " 4hrs 20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Mexican Beef 'N Rice Skillet",
+    "Description": "Cheesiness at its best.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Bruschetta Shrimp Pasta",
+    "Description": "You're going to be making this satisfying shrimp pasta all summer long.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Pizza-Stuffed Chicken",
+    "Description": "It's like eating pizza without the carbs.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Bruschetta Chicken Pasta",
+    "Description": "World, meet your new favorite dinner.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Crispy Skillet Tortellini",
+    "Description": "Cooking frozen tortellini like you would potstickers is a total game-changer.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cheesy Breakfast Pizza",
+    "Description": "Introducing the real breakfast of champions.",
+    "Time": "  35min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Grilled Donut Ice Cream Sandwich ",
+    "Description": "This ain't your average ice cream sandwich.",
+    "Time": "  15min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Twix Dip",
+    "Description": "What could be better than a molten candy bar?",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Buffalo Chicken Taquitos",
+    "Description": "If you love buffalo chicken, you'll freak out over these buffalo chicken taquitos. Feel free to swap flour tortillas for corn tortillas.",
+    "Time": "  40min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Reese's Amazeballs",
+    "Description": "These chocolate-peanut butter bites are amaze-balls.",
+    "Time": "  10min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Make-Ahead Bacon & Egg Sandwiches",
+    "Description": "You'll never have to settle for a mediocre breakfast sandwich again!",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Garlicky Lemon Shrimp with Angel Hair",
+    "Description": "If you love shrimp scampi, you need this in your life.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Prosciutto-Chicken Pasta",
+    "Description": "Crispy morsels of prosciutto will make you forget all about bacon.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Chicken Gyros",
+    "Description": "A lemon juice-based marinade gives the chicken a tangy, citrusy kick.",
+    "Time": " 1hr 5min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cauliflower Fried Rice",
+    "Description": "Give us all of the veggies.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Buffalo-Ranch Chicken Bowties",
+    "Description": "It's like buffalo wings and chicken alfredo had a beautiful baby.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Roasted Asparagus Carbonara",
+    "Description": "What makes carbonara even better? Roasted asparagus.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Lemony Shrimp and Asparagus Spaghetti",
+    "Description": "All the fresh flavors you crave in one super-easy spaghetti.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "The Works Skillet Pizza",
+    "Description": "Everything you could want\u2014veggies, sausage, and pepperoni\u2014in one pie.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "BBQ Chicken Skillet Pizza",
+    "Description": "Recreate the CPK fave with this insanely delicious homemade pie.",
+    "Time": "  40min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Primavera Skillet Pizza",
+    "Description": "Easy and so cheesy.",
+    "Time": "  40min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Beef and Broccoli Stir-Fry",
+    "Description": "With an unbelievably delicious sauce, this beef and broccoli rivals the best takeout.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Ginger Beef Stir-Fry with Ramen",
+    "Description": "This stir-fry has a ginger-garlic kick that you won't be able to resist.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cheesy Chicken Broccoli Bake",
+    "Description": "This dish is like broccoli cheddar soup all grown up.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cookie Dough Frosting",
+    "Description": "This next-level\u00a0frosting is every\u00a0cookie dough lover's dream.",
+    "Time": " 10hrs",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Lemon Garlic Chicken",
+    "Description": "This addictive yet simple\u00a0dish is your new weeknight go-to.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Creamy Roasted Red Pepper Penne",
+    "Description": "With a super-light cream sauce, this spinach and\u00a0roasted red pepper penne is addictive.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Italian Spaghetti Squash",
+    "Description": "Stuffed with crumbled Italian sausage and cheese (and a little tomato sauce\u2014yes, taking another liberty here), you have yourself a...",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cheesy Italian Rice with Sausage",
+    "Description": "Use up the rest of the Italian sausage, rice (so cheap!), rice, cheese, and spinach for this killer cheesy rice.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Mexican Chicken Pasta",
+    "Description": "It's a cheesy Tex-Mex dream.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Milky Way Hot Mess",
+    "Description": "The ultimate shareable dessert for your next girls night.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Strawberry Cheesecake Bars",
+    "Description": "The doctored cake mix crust tastes like a cross between a blondie and a strawberry cookie\u2014and makes your whole house smell amazing.",
+    "Time": "  45min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Skillet Tuna Melt",
+    "Description": "A deconstructed tuna melt = new favorite healthy\u00a0dinner.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Spaghetti with Fried Egg and Crispy Pepperoni",
+    "Description": "Easier than a carbonara, but with all the flavor.",
+    "Time": "  25min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Pizza Frittata",
+    "Description": "If you love pizza everything (and who doesn't?!), you need to pizza-ify your frittata.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cheesy Asparagus Pasta",
+    "Description": "Fall in love with asparagus this spring with this amazingly creamy pasta.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Roasted Red Pepper Pesto Penne",
+    "Description": "This deliciously savory\u00a0red pesto will make you never want to go green again.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Turkey, Mozzarella, and Kale Pesto Panini ",
+    "Description": "An insanely delicious\u2014and stuffed\u2014panini recipe.",
+    "Time": "  20min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Chicken Faijta Quesadillas with Cilantro Pesto",
+    "Description": "With the fixings of chicken fajitas, melty pepper jack, and zingy cilantro pesto, this heavenly quesadilla means biz.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cheesy Ground Beef Tacos ",
+    "Description": "You'll want to eat\u00a0this filling with or without the tortilla.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Cajun Shrimp Tacos with Mango-Avocado Salsa",
+    "Description": "Our super-easy mango salsa brings cajun-spiced shrimp to life.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  },
+  {
+    "Name": "Crack Chicken Tacos",
+    "Description": "If you're addicted to our Crack Chicken, just wait until you taste it in tacos.",
+    "Time": "  30min",
+    "Difficulty": " Easy"
+  }
+]
