@@ -33,10 +33,11 @@ for section in soup.find_all('section', role='main'):
                                          ('Rating', rating+'/4'),
                                          ('Reviews', reviews)]))
 
-path = 'Programming/CSC3130_WebProject/JSON/'
+cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
+path = 'JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
-postingsFile = path + today + '.Epicurious.json'
+postingsFile = cwd + path + today + '.Epicurious.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=False, indent=2)

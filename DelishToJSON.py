@@ -40,10 +40,11 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
                                  ('Time', time),
                                  ('Difficulty', difficulty)]))
 
-path = 'Programming/CSC3130_WebProject/JSON/'
+cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
+path = 'JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
-postingsFile = path + today + '.Delish.json'
+postingsFile = cwd + path + today + '.Delish.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=False, indent=2)

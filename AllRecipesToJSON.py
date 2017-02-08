@@ -40,10 +40,11 @@ for grid in soup.find_all(id="grid"):
             # print("Recipe by:", author)
             # print("")
 
-path = 'Programming/CSC3130_WebProject/JSON/'
+cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
+path = 'JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
-postingsFile = path + today + '.AllRecipes.json'
+postingsFile = cwd + path + today + '.AllRecipes.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=False, indent=2)
