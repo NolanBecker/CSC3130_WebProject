@@ -40,7 +40,7 @@ for grid in soup.find_all(id="grid"):
             # print("Recipe by:", author)
             # print("")
 
-path = '/home/nolan/Programming/CSC3130_WebProject/JSON/'
+path = 'Programming/CSC3130_WebProject/JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
 postingsFile = path + today + '.AllRecipes.json'

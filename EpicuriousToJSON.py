@@ -33,7 +33,7 @@ for section in soup.find_all('section', role='main'):
                                          ('Rating', rating+'/4'),
                                          ('Reviews', reviews)]))
 
-path = '/home/nolan/Programming/CSC3130_WebProject/JSON/'
+path = 'Programming/CSC3130_WebProject/JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
 postingsFile = path + today + '.Epicurious.json'

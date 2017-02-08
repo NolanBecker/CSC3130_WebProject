@@ -40,7 +40,7 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
                                  ('Time', time),
                                  ('Difficulty', difficulty)]))
 
-path = '/home/nolan/Programming/CSC3130_WebProject/JSON/'
+path = 'Programming/CSC3130_WebProject/JSON/'
 if not os.path.exists(path):
     os.makedirs(path)
 postingsFile = path + today + '.Delish.json'

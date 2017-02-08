@@ -12,7 +12,7 @@ for name, link in sites.items():
     response = requests.get(link)
     html = response.content
 
-    path = '/home/nolan/Programming/CSC3130_WebProject/HTML/'
+    path = 'Programming/CSC3130_WebProject/HTML/'
     if not os.path.exists(path):
         os.makedirs(path)
     fileName = path + today + '.' + name + '.html'
