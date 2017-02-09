@@ -1,27 +1,21 @@
 [
   {
-    "Name": "Chicken in Cream Sauce",
-    "Description": "Chef John's Salvadoran-style chicken stewed in sour cream is comfort food at its best: succulent, flavorful, and filling, with just the right amount of heat.",
-    "Rating": "4.3899998664856",
-    "Author": "Chef John"
+    "Name": "1-2-3 Jambalaya",
+    "Description": "Enjoy some Creole comfort the quick and easy way with this Johnsonville creation. Using your favorite Jambalaya rice and Creole seasoning, add in some succulent shrimp, olive oil, tomatoes and hot pepper sauce to get the celebration started. Add Johnsonville's Andouille Dinner Sausage to bring everything together for a truly authentic taste experience. Taking a trip to the Big Easy has never been so simple!",
+    "Rating": "4.34999990463257",
+    "Author": "Johnsonville"
   },
   {
-    "Name": "Pork Marsala",
-    "Description": "Boneless pork loin chops are simmered in a Marsala wine, garlic, and herb sauce. This is easy enough for a weeknight, and impressive enough for company.",
-    "Rating": "4.55999994277954",
-    "Author": "MyPlate"
+    "Name": "Sexy Shrimp Scampi",
+    "Description": "Butter and garlic make this simple but flavorful Scampi a big hit.",
+    "Rating": "4.6399998664856",
+    "Author": "TRAILINDAWG"
   },
   {
-    "Name": "BBQ Oatmeal Meatloaf",
-    "Description": "Breathe new life into an old meatloaf recipe with this sweet and tangy take on an American family classic.",
-    "Rating": "4.57000017166138",
-    "Author": "Jeffery Hunt"
-  },
-  {
-    "Name": "Chef John's Homemade Chicken Noodle Soup",
-    "Description": "This soul-warming soup is deliciously simple--just chicken and noodles. What makes it so good is the homemade roasted chicken stock.",
-    "Rating": "4.71999979019165",
-    "Author": "Chef John"
+    "Name": "Chicken and Sausage with Bowties",
+    "Description": "An easy meal made with boneless skinless chicken breasts, with spicy turkey sausage, tomatoes, and herbs over pasta. This recipe is just the start--don't hesitate to add more vegetables, or substitute rice for the noodles.",
+    "Rating": "4.3600001335144",
+    "Author": "Patricia Rogers"
   },
   {
     "Name": "Best of the Best Blueberry Muffins",
@@ -30,28 +24,34 @@
     "Author": "AUNTLYNNIE"
   },
   {
-    "Name": "Sexy Shrimp Scampi",
-    "Description": "Butter and garlic make this simple but flavorful Scampi a big hit.",
-    "Rating": "4.63000011444092",
-    "Author": "TRAILINDAWG"
+    "Name": "Eggplant Parmesan with Fresh Basil and Smoked Mozzarella",
+    "Description": "A gourmet version of the Italian-inspired favorite dish has plenty of fresh basil, smoked mozzarella cheese, and rich marinara sauce covering delicious fried eggplant slices.",
+    "Rating": "4.59999990463257",
+    "Author": "lindseytr0n"
   },
   {
-    "Name": "Chicken Thigh and Dumpling Stew",
-    "Description": "A variety of vegetables come together in this richly textured dish. Go ahead and curl up with a comforting bowl of this creamy chicken and dumpling soup!",
-    "Rating": "4.67999982833862",
-    "Author": "averyfern"
+    "Name": "Shaved Brussels Sprouts with Bacon and Almonds",
+    "Description": "Brussels Sprouts are shredded like cabbage and quickly sauteed in bacon drippings with garlic and almonds.  This recipe has made Brussels sprouts lovers out of haters.",
+    "Rating": "4.48999977111816",
+    "Author": "Boomdog02"
   },
   {
-    "Name": "Chocolate Chip Banana Bread II",
-    "Description": "Rich and sweet with chocolate chips and walnuts, this banana bread is made with shortening and mayonnaise, making it very moist. This recipe makes 2 loaves.",
-    "Rating": "4.80000019073486",
-    "Author": "TI2GR"
+    "Name": "Baked Rice Pudding",
+    "Description": "This rice pudding is lovely served warm. It has the appeal of homemade comfort food.",
+    "Rating": "4.17000007629395",
+    "Author": "Emtmom"
   },
   {
-    "Name": "Butter-Roasted Cauliflower",
-    "Description": "Chef John's quick and easy recipe for butter-roasted cauliflower is an unusual and tremendously tasty way to enjoy cauliflower.",
-    "Rating": "4.65999984741211",
-    "Author": "Chef John"
+    "Name": "Authentic Bangladeshi Beef Curry",
+    "Description": "This spicy beef curry is best served with plain basmati rice or eaten with naan or pita bread. It can be made on the stovetop, in a slow cooker, or in a pressure cooker.",
+    "Rating": "4.15000009536743",
+    "Author": "maishadewan"
+  },
+  {
+    "Name": "Alfredo and Cheese Stuffed Potatoes",
+    "Description": "These cheesy stuffed potatoes make a great side dish or a meal in themselves.",
+    "Rating": "4.55999994277954",
+    "Author": "Big Daddy Cooks"
   },
   {
     "Name": "Camarones a la Diabla (Mexican Deviled Prawns)",
