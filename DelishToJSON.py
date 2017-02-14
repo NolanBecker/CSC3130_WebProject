@@ -10,18 +10,20 @@ today = str(datetime.datetime.now().date())
 
 response = []
 
-urlDelish = 'http://www.delish.com/recipes/'
-pageDelish = requests.get(urlDelish)
+urlDelish = 'http://www.delish.com'
+pageDelish = requests.get(urlDelish + '/recipes/')
 soup = BeautifulSoup(pageDelish.content, 'lxml')
 
 name = ''
 description = ''
 time = ''
 difficulty = ''
+link = ''
 
 for div in soup.find_all('div', class_='landing-feed--special-content'):
     for title in div.find_all('a', class_='landing-feed--special-title'):
         name = title.string
+        link = urlDelish + title.get('href')
     for abstract in div.find_all('div', class_='landing-feed--story-abstract'):
         if abstract is not None:
             description = abstract.string[1:]
@@ -38,7 +40,8 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
     response.append(OrderedDict([('Name', name),
                                  ('Description', description),
                                  ('Time', time),
-                                 ('Difficulty', difficulty)]))
+                                 ('Difficulty', difficulty),
+                                 ('Link', link)]))
 
 cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
 path = 'JSON/'

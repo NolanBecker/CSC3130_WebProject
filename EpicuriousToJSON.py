@@ -10,8 +10,8 @@ today = str(datetime.datetime.now().date())
 
 response = []
 
-urlEpicurious = 'http://www.epicurious.com/search/?sort=newest&content=recipe'
-pageEpicurious = requests.get(urlEpicurious)
+urlEpicurious = 'http://www.epicurious.com'
+pageEpicurious = requests.get(urlEpicurious + '/search/?sort=newest&content=recipe')
 soup = BeautifulSoup(pageEpicurious.content, 'lxml')
 
 for section in soup.find_all('section', role='main'):
@@ -25,13 +25,15 @@ for section in soup.find_all('section', role='main'):
                 description = "No Description Found"
             rating = data.find('dl', class_='recipes-ratings-summary').find('span', class_='reviews-count-container') \
                 .find('dd', class_='rating').find(itemprop='ratingValue').string
-            reviews= data.find('dl', class_='recipes-ratings-summary').find('span', class_='reviews-count-container') \
+            reviews = data.find('dl', class_='recipes-ratings-summary').find('span', class_='reviews-count-container') \
                 .find('dd', class_='reviews-count').string
+            link = urlEpicurious + data.find('a').get('href')
 
             response.append(OrderedDict([('Name', name),
                                          ('Description', description),
                                          ('Rating', rating+'/4'),
-                                         ('Reviews', reviews)]))
+                                         ('Reviews', reviews),
+                                         ('Link', link)]))
 
 cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
 path = 'JSON/'
