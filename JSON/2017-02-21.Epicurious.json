@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "Cinnamon White Hot Chocolate",
+    "Description": "Cinnamon lends warming complexity to this comforting, creamy cold-weather drink. For a little pick-me-up, a splash of rum certainly wouldn't hurt.",
+    "Rating": "4/4",
+    "Reviews": "1",
+    "Link": "http://www.epicurious.com/recipes/food/views/cinnamon-white-hot-chocolate"
+  },
+  {
+    "Name": "Istanbul-Style Wet Burgers",
+    "Description": "A good soak in buttery tomato sauce gives this ultra-juicy burger\u2014a popular late-night Turkish street eat\u2014its odd but enchanting moniker.",
+    "Rating": "3.5/4",
+    "Reviews": "7",
+    "Link": "http://www.epicurious.com/recipes/food/views/istanbul-style-wet-burger-islak-burger"
+  },
+  {
+    "Name": "Instant-Pot Ancho Chile Sauce",
+    "Description": "Of all the sauces I make, this is definitely in the top three for both flavor and utility. Not only does it make delicious Red Chicken Enchiladas, but it\u2019s a perfect base for chili, and it adds a delightful piquancy to most Mexican or southwestern dishes.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/instant-pot-ancho-chile-sauce"
+  },
+  {
+    "Name": "Chickpea Cr\u00eape \"Tacos\" With Eggplant and Lamb",
+    "Description": "Thin, naturally gluten-free chickpea flour pancakes take the place of tortillas in these warmly spiced lamb and eggplant \u201ctacos.\u201d Top them off with your favorite baby greens for a well-rounded dinner.",
+    "Rating": "4/4",
+    "Reviews": "1",
+    "Link": "http://www.epicurious.com/recipes/food/views/chickpea-crepe-tacos-with-eggplant-and-lamb"
+  },
+  {
+    "Name": "Slow-Cooker Chicken Congee",
+    "Description": "Congee is a savory rice porridge often served for breakfast in China. Here, we simplify it by using boneless, skinless chicken thighs cooked with rice in a slow-cooker for a super comforting set-it-and-forget it dinner. Pick and choose from as many toppings as you like to dress up each serving.",
+    "Rating": "4/4",
+    "Reviews": "1",
+    "Link": "http://www.epicurious.com/recipes/food/views/slow-cooker-chicken-congee"
+  },
+  {
+    "Name": "Pressure-Cooker Espresso and Toasted Almond Flan",
+    "Description": "A perfect marriage of two of the very things that represent my love of food and culture: espresso and flan. It doesn\u2019t get much better than this. The toasty almonds add great texture and the espresso will subtly keep you energized.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/pressure-cooker-espresso-and-toasted-almond-flan"
+  },
+  {
+    "Name": "Matcha White Hot Chocolate",
+    "Description": "Hot chocolate doesn't have to be dark and decadent. This rich and creamy white chocolate version has tropical notes thanks to the coconut milk, plus a boost of caffeine and bold green color from matcha powder.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/matcha-white-hot-chocolate"
+  },
+  {
+    "Name": "Matcha-Mango Smoothie",
+    "Description": "Blending together yogurt, mango, and matcha makes a refreshing smoothie with an energizing caffeine boost and a good dose of protein.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/matcha-mango-smoothie"
+  },
+  {
+    "Name": "Matcha-Mint Sparkler",
+    "Description": "Matcha in the morning, matcha at night, matcha all through the day! This lime-mint-matcha combo is a great morning or afternoon pick-me-up, or add a splash of rum for a bright and refreshing cocktail.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/matcha-mint-sparkler"
+  },
+  {
+    "Name": "Lentil and Egg Stew",
+    "Description": "Poaching eggs right in the stew is so obviously genius, we are still trying to figure out why we didn\u2019t think of this recipe sooner.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/lentil-and-egg-stew"
+  },
+  {
+    "Name": "Honeynut Squash With Radicchio and Miso",
+    "Description": "What\u2019s a honeynut squash, you ask? It looks like a miniature butternut squash and has sweet, firm flesh that stands up to any cooking method.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/honeynut-squash-with-radicchio-and-miso"
+  },
+  {
+    "Name": "Cromlet With Wilted Greens and Fennel and Olive Salad",
+    "Description": "This savory gluten-free vegetarian pancake recipe can be made in the same pan as the wilted greens, maximizing efficiency for a healthy weeknight meal.",
+    "Rating": "4/4",
+    "Reviews": "1",
+    "Link": "http://www.epicurious.com/recipes/food/views/cromlet-with-wilted-greens-and-fennel-and-olive-salad"
+  },
+  {
+    "Name": "Chicken With Crispy Rice",
+    "Description": "If you make the stock ahead of time for this chicken recipe, the fat will solidify when chilled so it\u2019s easy to lift off.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/chicken-with-crispy-rice"
+  },
+  {
+    "Name": "Spaghetti Aglio e Olio With Lots of Kale",
+    "Description": "You will think this pasta recipe calls for an absurd amount of kale, but it will shrink a ton when cooked.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/spaghetti-aglio-e-olio-with-lots-of-kale"
+  },
+  {
+    "Name": "Pork Shoulder With Pineapple and Sesame Broccoli",
+    "Description": "While pork rib chops would be fine for this recipe, thin shoulder steaks or blade chops have more fat, meaning they\u2019ll stay ultrajuicy even after a hard sear.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/pork-shoulder-with-pineapple-and-sesame-broccoli"
+  },
+  {
+    "Name": "Oxtail Rag\u00f9 With Semolina Gnocchi",
+    "Description": "This recipe makes a lot of rag\u00f9, but it freezes well and is worth having around. If making the gnocchi feels like a project, serve over polenta instead.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/oxtail-ragu-with-semolina-gnocchi"
+  },
+  {
+    "Name": "Lamb Larb",
+    "Description": "Larb is hailed as the national dish of Laos. Traditionally the salad starts with extremely finely chopped lean meat or fish and is seasoned with lime juice, chiles, fish sauce, and toasted ground rice. This recipe calls for ground lamb, a fattier protein than what\u2019s usually used, and subs ground peanuts as a nod to the texture of the rice.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/lamb-larb"
+  },
+  {
+    "Name": "Chorizo, Tomato, and Chickpeas With Yogurt",
+    "Description": "This chorizo recipe is hearty and substantial on its own, but if you want to put an egg on it, go right ahead.",
+    "Rating": "0/4",
+    "Reviews": "0",
+    "Link": "http://www.epicurious.com/recipes/food/views/chorizo-tomato-and-chickpeas-with-yogurt"
+  }
+]

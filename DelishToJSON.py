@@ -45,7 +45,6 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
 
 cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
 path = 'JSON/'
-print(cwd + path)
 if not os.path.exists(path):
     os.makedirs(path)
 postingsFile = cwd + path + today + '.Delish.json'
