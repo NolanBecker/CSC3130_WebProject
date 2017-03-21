@@ -29,16 +29,20 @@ for grid in soup.find_all(id="grid"):
                 rating = ratingTag['data-ratingstars']
             authorTag = position.find('h4')
             author = authorTag.contents[1].strip()
+            link = "No link"
+            if position.find("a") is not None:
+                link = position.find("a").get("href")
 
             response.append(OrderedDict([('Name', name),
-                                         ('Description', description),
-                                         ('Rating', rating),
-                                         ('Author', author)]))
-            # print(name)
-            # print(description)
-            # print("Rating:", rating)
-            # print("Recipe by:", author)
-            # print("")
+                                     ('Description', description),
+                                     ('Rating', rating),
+                                     ('Author', author),
+                                     ('Link', link)]))
+        # print(name)
+        # print(description)
+        # print("Rating:", rating)
+        # print("Recipe by:", author)
+        # print("")
 
 cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
 path = 'JSON/'
