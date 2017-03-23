@@ -10,8 +10,8 @@ today = str(datetime.datetime.now().date())
 
 response = []
 
-urlAllRecipes = 'http://allrecipes.com/recipes/?sort=Newest'
-pageAllRecipes = requests.get(urlAllRecipes)
+urlAllRecipes = 'http://allrecipes.com'
+pageAllRecipes = requests.get(urlAllRecipes + '/recipes/?sort=Newest')
 soup = BeautifulSoup(pageAllRecipes.content, 'lxml')
 
 for grid in soup.find_all(id="grid"):
@@ -31,7 +31,7 @@ for grid in soup.find_all(id="grid"):
             author = authorTag.contents[1].strip()
             link = "No link"
             if position.find("a") is not None:
-                link = position.find("a").get("href")
+                link = urlAllRecipes + position.find("a").get("href")
 
             response.append(OrderedDict([('Name', name),
                                      ('Description', description),
