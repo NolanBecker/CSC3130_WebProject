@@ -33,16 +33,23 @@ for grid in soup.find_all(id="grid"):
             if position.find("a") is not None:
                 link = urlAllRecipes + position.find("a").get("href")
 
+            servings = "No serving size"
+            if link is not "No link":
+                newSoup = BeautifulSoup(requests.get(link).content, 'lxml')
+                for serv in newSoup.find_all("span", class_="servings-count"):
+                    print(serv)
+
             response.append(OrderedDict([('Name', name),
-                                     ('Description', description),
-                                     ('Rating', rating),
-                                     ('Author', author),
-                                     ('Link', link)]))
-        # print(name)
-        # print(description)
-        # print("Rating:", rating)
-        # print("Recipe by:", author)
-        # print("")
+                                         ('Description', description),
+                                         ('Rating', rating),
+                                         ('Author', author),
+                                         ('Serving size', servings),
+                                         ('Link', link)]))
+            # print(name)
+            # print(description)
+            # print("Rating:", rating)
+            # print("Recipe by:", author)
+            # print("")
 
 cwd = os.path.dirname(os.path.realpath(__file__)) + "/"
 path = 'JSON/'

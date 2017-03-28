@@ -1,0 +1,234 @@
+[
+  {
+    "Name": "Easy Smoked Sausage Skillet",
+    "Description": "Dinner's on the table in no time with this one-skillet sausage and veggie dish served over rice.",
+    "Rating": "4.13000011444092",
+    "Author": "Hillshire Farm\u00ae",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/245932/easy-smoked-sausage-skillet/"
+  },
+  {
+    "Name": "Easy Lasagna II",
+    "Description": "This lasagna recipe calls for uncooked noodles to be baked between layers of cheese and beef in spaghetti sauce.",
+    "Rating": "4.6100001335144",
+    "Author": "Joanie Heger",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/12011/easy-lasagna-ii/"
+  },
+  {
+    "Name": "Almond and Parmesan Crusted Tilapia",
+    "Description": "Broiled tilapia is coated with a creamy Parmesan topping that cooks in just minutes! Prepare on busy weeknights for a quick dinner.",
+    "Rating": "4.44999980926514",
+    "Author": "Franzy",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/235422/almond-and-parmesan-crusted-tilapia/"
+  },
+  {
+    "Name": "Mom's Meatloaf",
+    "Description": "Glazed with a sweet ketchup sauce, this meatloaf is sure to become a family favorite!",
+    "Rating": "4.42000007629395",
+    "Author": "Wendy",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/183403/moms-meatloaf/"
+  },
+  {
+    "Name": "Thai Beef Salad",
+    "Description": "Seared and marinated beef is served atop a crisp lettuce and cucumber bed in this salad bursting with fresh Thai flavors.",
+    "Rating": "4.65999984741211",
+    "Author": "Mick",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/19607/thai-beef-salad/"
+  },
+  {
+    "Name": "Overnight Asparagus Mushroom Strata",
+    "Description": "Perfect for a special breakfast or brunch, this make-ahead eggy casserole combines toasted English muffins with layers of cheese, mushrooms, and asparagus. Refrigerate overnight, bake the next day, and keep your morning clear for celebrating instead of cooking.",
+    "Rating": "4.65000009536743",
+    "Author": "Shandeen Gemanis",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/213651/overnight-asparagus-mushroom-strata/"
+  },
+  {
+    "Name": "Peanut Butter Chip Chocolate Cookies",
+    "Description": "Peanut butter chips are folded into a rich chocolate cookie dough and baked to perfection. Warning: these are so good you may be tempted to eat the entire batch.",
+    "Rating": "4.69000005722046",
+    "Author": "Michelle Laverdiere",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/15469/peanut-butter-chip-chocolate-cookies/"
+  },
+  {
+    "Name": "Tamarind Agua Fresca",
+    "Description": "This refreshing tamarind agua fresca has a sweet and sour flavor, and is delicious served over ice with fresh orange and lime slices.",
+    "Rating": "4.67000007629395",
+    "Author": "SB",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/246116/tamarind-agua-fresca/"
+  },
+  {
+    "Name": "Applesauce Pork Chops",
+    "Description": "Pork chops are baked with a savory applesauce glaze for a quick and easy weeknight main dish.",
+    "Rating": "4.3600001335144",
+    "Author": "Shelli",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/229254/applesauce-pork-chops/"
+  },
+  {
+    "Name": "Cranberry Jalapeno \\Cornbread\\ Muffins",
+    "Description": "Made with coconut flour, cranberries, and jalape\u00f1o, these pseudo cornbread muffins would make a great addition to a Thanksgiving table.",
+    "Rating": "0",
+    "Author": "Prestwood Family",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257604/cranberry-jalapeno-cornbread-muffins/"
+  },
+  {
+    "Name": "Paleo Coconut Lemon Cake",
+    "Description": "Made with coconut and almond flour and bursting with lemon flavor, this cake makes an excellent low-carb, gluten-free, or Paleo treat.",
+    "Rating": "0",
+    "Author": "Megan Olson",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257607/paleo-coconut-lemon-cake/"
+  },
+  {
+    "Name": "Taiwanese-Style Beef Noodles",
+    "Description": "This beef with ramen noodles recipe adapted for the slow cooker is a hearty, crowd-pleasing version of the traditional Taiwanese soup.",
+    "Rating": "0",
+    "Author": "Anita Chen",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257579/taiwanese-style-beef-noodles/"
+  },
+  {
+    "Name": "Taiwanese Popcorn Chicken",
+    "Description": "Seasoned bite-sized pieces of chicken are fried twice and topped with Thai basil leaves in this Taiwanese-inspired popcorn chicken recipe.",
+    "Rating": "0",
+    "Author": "chelsea",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257577/taiwanese-popcorn-chicken/"
+  },
+  {
+    "Name": "Summertime Dessert Lasagna",
+    "Description": "Layers of graham crackers, banana pudding, ricotta cheese, and fresh kiwis and berries make this lasagna a cool summertime dessert.",
+    "Rating": "0",
+    "Author": "Kari Chappell",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257570/summertime-dessert-lasagna/"
+  },
+  {
+    "Name": "Capirotada a la Antigua (Mexican Bread Pudding)",
+    "Description": "Capirotada, a traditional Mexican dessert, is made with bread soaked in a spiced guava syrup and layered with raisins, cotija, and peanuts.",
+    "Rating": "0",
+    "Author": "gigi",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257533/capirotada-a-la-antigua-mexican-bread-pudding/"
+  },
+  {
+    "Name": "Poached Salmon Tobiko Bowls",
+    "Description": "Sticky rice is topped with salmon and tobiko (fish eggs) in this quick and easy Japanese-inspired bowl that is ready in less than 1 hour.",
+    "Rating": "0",
+    "Author": "A Day In the Kitchen",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257583/poached-salmon-tobiko-bowls/"
+  },
+  {
+    "Name": "Taiwanese Spicy Beef Noodle Soup",
+    "Description": "This Taiwanese beef noodle soup made with chiles, udon noodles, and plenty of garlic is easily made in the slow cooker for winter evenings.",
+    "Rating": "0",
+    "Author": "jhuang0125",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257581/taiwanese-spicy-beef-noodle-soup/"
+  },
+  {
+    "Name": "Hong Kong-Style Five Vegetable Fried Rice Noodle (Ng So Chao Mai Sin)",
+    "Description": "Rice noodles stir-fried with mushrooms, cabbage, and cucumber in a soy sauce-based sauce is a quick Taiwanese-style vegetable noodle dish.",
+    "Rating": "0",
+    "Author": "Renita Au Yeung",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257580/hong-kong-style-five-vegetable-fried-rice-noodle-ng-so-chao-mai-sin/"
+  },
+  {
+    "Name": "Chef V's Smoothie Bowl",
+    "Description": "Fruit, coconut water, and Greek yogurt are blended together, poured into a bowl, and topped with chia seeds in this smoothie bowl recipe.",
+    "Rating": "0",
+    "Author": "Chef V",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257584/chef-vs-smoothie-bowl/"
+  },
+  {
+    "Name": "Pretzel Broomstick",
+    "Description": "String cheese, pretzel sticks, and spinach come together to make pretzel broomsticks, a clever snack the whole family will love on Halloween.",
+    "Rating": "0",
+    "Author": "medoDIYstuffs",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257582/pretzel-broomstick/"
+  },
+  {
+    "Name": "Chicken and Rice with Cumin and Cilantro",
+    "Description": "Chicken wings are simmered with rice and lots of onion, ginger, garlic, and cilantro in this delicious one-pot meal, arroz con pollo.",
+    "Rating": "0",
+    "Author": "Jacques Pepin",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257598/chicken-and-rice-with-cumin-and-cilantro/"
+  },
+  {
+    "Name": "1234 Taiwanese Spare Ribs",
+    "Description": "With 1 pound spare ribs, 2 tablespoons vinegar, 3 tablespoons sugar, and 4 tablespoons soy sauce, this Taiwanese recipe is hard to forget.",
+    "Rating": "0",
+    "Author": "Jessica",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257578/1234-taiwanese-spare-ribs/"
+  },
+  {
+    "Name": "French-Style Lasagna",
+    "Description": "Layers of creamy bechamel sauce and Swiss cheese add French-style touches to this beef lasagna that will elicit lots of compliments.",
+    "Rating": "0",
+    "Author": "Melody",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257575/french-style-lasagna/"
+  },
+  {
+    "Name": "Philly Cheesesteak Lasagna",
+    "Description": "This Philly cheesesteak lasagna is not your typical lasagna, loaded with flank steak, bell peppers, mushrooms, and four kinds of cheese.",
+    "Rating": "0",
+    "Author": "Lili Goehring",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257574/philly-cheesesteak-lasagna/"
+  },
+  {
+    "Name": "Kristi's Chocolate Lasagna",
+    "Description": "Crushed cookies, sweetened cream cheese, chocolate pudding, and mini chocolate chips are the building blocks of this no-bake dessert lasagna.",
+    "Rating": "0",
+    "Author": "Kristi Poole",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257571/kristis-chocolate-lasagna/"
+  },
+  {
+    "Name": "Raspberry Lemon Cream Cheese Waffles",
+    "Description": "Fresh raspberries and lemon juice are the perfect pairing in these easy waffles with a little extra richness thanks to cream cheese.",
+    "Rating": "0",
+    "Author": "upandover",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257567/raspberry-lemon-cream-cheese-waffles/"
+  },
+  {
+    "Name": "Blackberry Focaccia with Sweet Ricotta Cheese",
+    "Description": "Dress up store-bought pizza dough with fresh blackberries, rosemary honey, and sweetened ricotta cheese for a deliciously unique focaccia.",
+    "Rating": "0",
+    "Author": "JennM",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257555/blackberry-focaccia-with-sweet-ricotta-cheese/"
+  },
+  {
+    "Name": "Blackberry Sage Prosecco Cocktail",
+    "Description": "Prosecco wine, blackberry juice, and fresh sage leaves are all you need to make this unique sparkling cocktail with refreshing aromas.",
+    "Rating": "0",
+    "Author": "Cocktail Jim",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257552/blackberry-sage-prosecco-cocktail/"
+  },
+  {
+    "Name": "Chocolate Blackberry Bars",
+    "Description": "These jammy double-crust bars with fresh blackberries are reminiscent of a cobbler, but have a surprise chocolate layer in the middle.",
+    "Rating": "0",
+    "Author": "FARNSWORTH",
+    "Serving size": "No serving size",
+    "Link": "http://allrecipes.com/recipe/257551/chocolate-blackberry-bars/"
+  }
+]

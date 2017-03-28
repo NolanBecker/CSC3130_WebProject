@@ -1,0 +1,611 @@
+[
+  {
+    "Name": "Lemon Poppyseed Bread",
+    "Description": "It tastes like sunshine.",
+    "Time": "",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a52084/lemon-poppyseed-bread-recipe/"
+  },
+  {
+    "Name": "Slow-Cooker Hash Brown Casserole",
+    "Description": "The ultimate slow-cooker breakfast.",
+    "Time": " 3hrs 20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51091/slow-cooker-hash-brown-casserole-recipe/"
+  },
+  {
+    "Name": "Cr\u00eapes",
+    "Description": "Nutella is optional, but obviously, we're going to go there.",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a52114/easy-basic-crepe-recipe/"
+  },
+  {
+    "Name": "French Toast",
+    "Description": "What are you doing Sunday morning? Making this french toast.",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a52113/how-to-make-french-toast/"
+  },
+  {
+    "Name": "Buffalo Hash Browns",
+    "Description": "Everything's better with buffalo!",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51466/buffalo-hash-browns-recipe/"
+  },
+  {
+    "Name": "Donut Apples",
+    "Description": "For when you need to take a break from the real stuff.",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a52053/donut-apples-recipe/"
+  },
+  {
+    "Name": "Breakfast Bagel Bites",
+    "Description": "Bagel bites >>> everything",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a51766/breakfast-bagel-bites-recipe/"
+  },
+  {
+    "Name": "Banana Pancake Dippers",
+    "Description": "Makin' banana pancakes...\u266b",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51901/banana-pancake-dippers-recipe/"
+  },
+  {
+    "Name": "Cheesecakeadilla",
+    "Description": "You've never seen cheesecake like this before!",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51900/cheesecakeadilla-recipe/"
+  },
+  {
+    "Name": "Low-Carb Breakfast Burritos",
+    "Description": "Who needs that pesky tortilla anyway?!",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51807/low-carb-breakfast-burritos-recipe/"
+  },
+  {
+    "Name": "California Breakfast Skillet",
+    "Description": "Californiaaaa, here we coooome...\u266b",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51655/california-breakfast-skillet-recipe/"
+  },
+  {
+    "Name": "Gluten-Free Banana Bread",
+    "Description": "Every bit as good as the original. Bye gluten!",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51821/gluten-free-banana-bread-recipe/"
+  },
+  {
+    "Name": "Loaded Cauliflower Breakfast Bake",
+    "Description": "You will not miss the hash browns.",
+    "Time": "  55min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51520/loaded-cauliflower-breakfast-bake-recipe/"
+  },
+  {
+    "Name": "Zucchini Corn Cakes",
+    "Description": "Zucc there it is!",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51738/zucchini-corn-cakes-recipe/"
+  },
+  {
+    "Name": "Unicorn Toast",
+    "Description": "You've never seen toast like this!",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51786/unicorn-toast-recipe/"
+  },
+  {
+    "Name": "French Toast Bake",
+    "Description": "French toast for a crowd \u2014 with no dirty pans in sight!",
+    "Time": " 2hrs 35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51566/french-toast-bake-recipe/"
+  },
+  {
+    "Name": "Breakfast Bombs",
+    "Description": "This breakfast is da bomb.",
+    "Time": " 2hrs 35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51530/breakfast-bombs-recipe/"
+  },
+  {
+    "Name": "Cauliflower Breakfast Pizza",
+    "Description": "A loaded low-carb breakfast pizza for all you cauliflower fanatics.",
+    "Time": "  55min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51549/cauliflower-breakfast-pizza-recipe/"
+  },
+  {
+    "Name": "Bunless Bacon, Egg & Cheese",
+    "Description": "So good you won't miss the bread!",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51637/bunless-bacon-egg-and-cheese-recipe/"
+  },
+  {
+    "Name": "Pepper Egg-in-a-Hole",
+    "Description": "The cutest eggs we ever did see!",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51522/pepper-egg-in-a-hole-recipe/"
+  },
+  {
+    "Name": "White Trash Hash",
+    "Description": "Not classy but insanely tasty.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51550/white-trash-hash-recipe/"
+  },
+  {
+    "Name": "Kalteen Bars",
+    "Description": "\"Is butter a carb?\"",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51592/kalteen-bars-recipes/"
+  },
+  {
+    "Name": "Chocolate Banana Crepes",
+    "Description": "Oh you fancy, huh?",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51440/chocolate-banana-crepes-recipe/"
+  },
+  {
+    "Name": "Cowboy Breakfast Bowls",
+    "Description": "You don't have to be a cowboy to love this hearty breakfast.",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51269/cowboy-breakfast-bowls-recipe/"
+  },
+  {
+    "Name": "Cauliflower Breakfast Muffins",
+    "Description": "You won't miss the carbs when there's ham and cheese involved.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a51528/cauliflower-breakfast-muffins-recipe/"
+  },
+  {
+    "Name": "Egg-In-A-Hole Buns",
+    "Description": "The cutest lil breakfast buns we ever did see! \ud83d\ude0d",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51413/egg-in-a-hole-buns-recipe/"
+  },
+  {
+    "Name": "Giant Breakfast Sandwich",
+    "Description": "The biggest BEC you ever did see.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a51497/giant-breakfast-sandwich-recipe/"
+  },
+  {
+    "Name": "Best Homemade Waffle Recipe",
+    "Description": "See you never, Eggo.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51472/best-homemade-waffle-recipe/"
+  },
+  {
+    "Name": "Bacon Egg-In-A-Heart",
+    "Description": "Nothing says love like bacon.",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51237/bacon-egg-in-a-heart-recipe/"
+  },
+  {
+    "Name": "Nutella Stuffed Pancakes",
+    "Description": "Nutella lovers will freak out over these stuffed pancakes.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51216/nutella-stuffed-pancakes-recipe/"
+  },
+  {
+    "Name": "Loaded Slow-Cooker Grits",
+    "Description": "These creamy slow-cooker grits are loaded with flavor.",
+    "Time": " 2hrs 35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51263/loaded-slow-cooker-grits-recipe/"
+  },
+  {
+    "Name": "Ham Egg & Cheese Roll-Ups",
+    "Description": "Who needs a tortilla when you have ham?",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51155/ham-egg-cheese-roll-ups-recipe/"
+  },
+  {
+    "Name": "Brownie Batter Pancakes",
+    "Description": "Dessert for breakfast > breakfast for dinner",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51130/brownie-batter-pancakes-recipe/"
+  },
+  {
+    "Name": "Pi\u00f1a Colada Smoothie Bowls",
+    "Description": "Tastes as good as it looks!",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51092/pina-colada-smoothie-bowls-recipe/"
+  },
+  {
+    "Name": "Breakfast Stuffed Bread",
+    "Description": "Bacon, eggs, and cheese. A match made in heaven.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50967/breakfast-stuffed-bread-recipe/"
+  },
+  {
+    "Name": "Loaded Breakfast Quesadillas",
+    "Description": "For those times when a breakfast taco just won't cut it.",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51068/loaded-breakfast-quesadillas-recipe/"
+  },
+  {
+    "Name": "Junior's Egg-in-a-Hole Grilled Cheese",
+    "Description": "Grilled cheese for breakfast? You butter believe it.",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a51127/juniors-egg-in-a-hole-grilled-cheese-recipe/"
+  },
+  {
+    "Name": "Blueberry Slow-Cooker Oatmeal",
+    "Description": "Finally, an oatmeal that doesn't make you want to hit the snooze button!",
+    "Time": " 4hrs 10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50916/blueberry-slow-cooker-oatmeal-recipe/"
+  },
+  {
+    "Name": "Guacamole Toast",
+    "Description": "This ain't your average avocado toast.",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50953/guacamole-toast-recipe/"
+  },
+  {
+    "Name": "Avocado Egg-In-A-Hole",
+    "Description": "Avocado makes everything better.",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50946/avocado-egg-in-a-hole-recipe/"
+  },
+  {
+    "Name": "Ham & Cheese Egg Cups",
+    "Description": "Breakfast in a bite!",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50901/ham-cheese-egg-cups-recipe/"
+  },
+  {
+    "Name": "Perfect Pancakes",
+    "Description": "Look no further for the perfect fluffy pancake!",
+    "Time": "  25min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/menus/recipes/a50760/perfect-pancakes-recipe/"
+  },
+  {
+    "Name": "Cheddar Hash Brown Casserole ",
+    "Description": "Look no further for the easy breakfast casserole of your dreams.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50841/cheddar-hash-brown-casserole-recipe/"
+  },
+  {
+    "Name": "Chocolate Crumble Bars",
+    "Description": "All is right in the world when you're eating these fudge oatmeal crumble bars.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/menus/recipes/a50765/chocolate-crumble-bars-recipe/"
+  },
+  {
+    "Name": "Cheesy Bacon Quiche",
+    "Description": "Master this quiche and leave the brunch crowds in the dust.",
+    "Time": "  50min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50670/cheesy-bacon-quiche-recipe/"
+  },
+  {
+    "Name": "Red Velvet Cinnamon Rolls",
+    "Description": "This sweet mash-up is hands down the most delicious way to eat cinnamon rolls.",
+    "Time": " 1hr 45min",
+    "Difficulty": " Moderate",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50708/red-velvet-cinnamon-rolls-recipe/"
+  },
+  {
+    "Name": "Best Banana Bread",
+    "Description": "Meet your new go-to banana bread recipe.",
+    "Time": " 1hr 15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50825/best-banana-bread-recipe/"
+  },
+  {
+    "Name": "Ham & Cheese Brunch Bake",
+    "Description": "This breakfast casserole will wow your crowd.",
+    "Time": " 1hr 15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50777/ham-cheese-brunch-bake-recipe/"
+  },
+  {
+    "Name": "Cranberry Coffee Cake",
+    "Description": "Do yourself a favor and ease into your morning with this cranberry white chocolate coffee cake.",
+    "Time": " 1hr 10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a50566/cranberry-coffee-cake-recipe/"
+  },
+  {
+    "Name": "Buddy The Elf Breakfast Cookies",
+    "Description": "SON OF A NUTCRACKER, these are good!",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50400/buddy-the-elf-cookies-recipe/"
+  },
+  {
+    "Name": "Bloody Mary Bombs",
+    "Description": "They're the bomb.com.",
+    "Time": " 2hrs 10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50399/bloody-mary-bombs-recipe/"
+  },
+  {
+    "Name": "Slow-Cooker Sticky Buns",
+    "Description": "These slow-cooker sticky buns are 100x easier than making sticky buns from scratch. (They're also just as good.)",
+    "Time": " 2hrs 10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50414/slow-cooker-sticky-buns-recipe/"
+  },
+  {
+    "Name": "Pancake Poppers",
+    "Description": "Chocolate chip pancakes in mini muffin form. You're welcome.",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a50409/pancake-poppers-recipe/"
+  },
+  {
+    "Name": "Chicken 'n Biscuit Sliders",
+    "Description": "Move over, chicken and waffles.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50371/chicken-n-biscuit-sliders-recipe/"
+  },
+  {
+    "Name": "Gilmore Girls-Inspired Coffee Cake",
+    "Description": "This might even be better than the slices at Luke's Diner.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50083/gilmore-girls-inspired-coffee-cake-recipe/"
+  },
+  {
+    "Name": "Sausage Pancake Dippers",
+    "Description": "Watch your back, maple bacon.",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50290/sausage-pancake-dippers-recipe/"
+  },
+  {
+    "Name": "Eggo Breakfast Sliders",
+    "Description": "Is it the weekend yet?",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50232/eggo-breakfast-sliders-recipe/"
+  },
+  {
+    "Name": "Maple Bacon Corn Muffins",
+    "Description": "Just when you thought maple bacon couldn't get any better, we went and added cornbread.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50194/maple-bacon-corn-muffins-recipe/"
+  },
+  {
+    "Name": "Breakfast in a Blanket",
+    "Description": "Breakfast in a blanket is everything pigs in a blanket aspires to be.",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50205/breakfast-in-a-blanket-recipe/"
+  },
+  {
+    "Name": "Steak & Eggs Hash",
+    "Description": "We just shut down the brunch game.",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50191/steak-eggs-hash-recipe/"
+  },
+  {
+    "Name": "Popovers and Easy Berry Butter",
+    "Description": "The perfect pairing.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49977/popovers-and-easy-berry-butter-recipe/"
+  },
+  {
+    "Name": "Cinnamon Oat Scones with Maple Glaze",
+    "Description": "Your breakfast needs this.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50156/cinnamon-oat-scones-with-maple-glaze-recipe/"
+  },
+  {
+    "Name": "Hangover Hash",
+    "Description": "Give your leftovers (and your spirits) a lift the day after Thanksgiving.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50145/hangover-hash-recipe/"
+  },
+  {
+    "Name": "Biscuit and Gravy Ring",
+    "Description": "Ring around the biscuits.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a50101/biscuit-and-gravy-ring-recipe/"
+  },
+  {
+    "Name": "Cheesecake-Stuffed Pumpkin Bread",
+    "Description": "Pumpkin and cheesecake were MFEO.",
+    "Time": " 1hr 10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50104/cheesecake-stuffed-pumpkin-bread-recipe/"
+  },
+  {
+    "Name": "Apple Pancake Dippers",
+    "Description": "More fruit, less guilt, right?",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a50098/apple-pancake-dippers-recipe/"
+  },
+  {
+    "Name": "Cauliflower Toast",
+    "Description": "This cauli toast is the best thing since, well, real sliced bread.",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a50033/cauliflower-toast-recipe/"
+  },
+  {
+    "Name": "Creme Brulee French Toast",
+    "Description": "You so fancy.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49949/creme-brulee-french-toast-recipe/"
+  },
+  {
+    "Name": "Tater Tot Breakfast Bake",
+    "Description": "Hashbrowns got nothing on tots.",
+    "Time": " 1hr 15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49810/tater-tot-breakfast-bake-recipe/"
+  },
+  {
+    "Name": "Mexican Skillet Scramble",
+    "Description": "Let's be honest, when are you ever going to pass up guac for breakfast?",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49723/mexican-skillet-scramble-recipe/"
+  },
+  {
+    "Name": "Cinnamon Roll-Stuffed Apples",
+    "Description": "We've reached peak fall.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49729/cinnamon-roll-stuffed-apples-recipe/"
+  },
+  {
+    "Name": "Apple Fritter Monkey Bread",
+    "Description": "Gooey doesn't even begin to describe it.",
+    "Time": " 1hr 15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49722/apple-fritter-monkey-bread-recipe/"
+  },
+  {
+    "Name": "French Toast Dippers",
+    "Description": "Tons of syrup in every single bite.",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49622/french-toast-dippers-recipe/"
+  },
+  {
+    "Name": "Cornbread Breakfast Pizza",
+    "Description": "If you think cornbreads just for chili, you're missing out.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49647/cornbread-breakfast-pizza-recipe/"
+  },
+  {
+    "Name": "Mini Breakfast Pizzas",
+    "Description": "Your breakfasts deserve more than reheated leftovers.",
+    "Time": "  20min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49568/mini-breakfast-pizzas-recipe/"
+  },
+  {
+    "Name": "Loaded Breakfast Skillet",
+    "Description": "This will definitely be the breakfast special in your house from now on.",
+    "Time": "  5min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49558/loaded-breakfast-skillet-recipe/"
+  },
+  {
+    "Name": "Banana Pudding Banana Bread",
+    "Description": "How have we not thought of this sooner?",
+    "Time": " 1hr",
+    "Difficulty": " Moderate",
+    "Link": "http://www.delish.com/cooking/recipes/a49541/banana-pudding-banana-bread/"
+  },
+  {
+    "Name": "Hash Brown Cups",
+    "Description": "Break out the muffin tin for a full on-the-go breakfast.",
+    "Time": "  55min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49446/hash-brown-muffin-tin-cups-recipe/"
+  },
+  {
+    "Name": "Triple-Chocolate Pumpkin Bread",
+    "Description": "One times the chocolate just wasn't going to cut it.",
+    "Time": " 1hr 30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49433/triple-chocolate-pumpkin-bread-recipe/"
+  },
+  {
+    "Name": "Breakfast Grilled Cheese",
+    "Description": "A massive upgrade to the Egg McMuffin.",
+    "Time": "  15min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49345/breakfast-grilled-cheese-recipe/"
+  },
+  {
+    "Name": "Pumpkin Butterscotch Muffins",
+    "Description": "It's fall in a cupcake liner.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipes/a49207/pumpkin-butterscotch-muffins/"
+  },
+  {
+    "Name": "Bacon Crescent Casserole",
+    "Description": "Meet the breakfast bake of your dreams.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49188/breakfast-crescent-casserole-recipe/"
+  },
+  {
+    "Name": "Loaded Hashbrown Waffles",
+    "Description": "You've never had hash browns this epic.",
+    "Time": "  45min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49194/loaded-hashbrown-waffles-recipe/"
+  },
+  {
+    "Name": "Spaghetti Frittata",
+    "Description": "This is the most genius way to use up leftover pasta.",
+    "Time": "  30min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49146/spaghetti-frittata/"
+  },
+  {
+    "Name": "Caramel Apple Coffee Cake",
+    "Description": "The perfect excuse to eat cake for breakfast.",
+    "Time": "  35min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49124/caramel-apple-coffee-cake-recipe/"
+  },
+  {
+    "Name": "Breakfast Baked Potato",
+    "Description": "Move over, hash browns\u2014there's another breakfast spud in town.",
+    "Time": "  40min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49119/breakfast-baked-potato-recipe/"
+  },
+  {
+    "Name": "Sweet Potato Toast",
+    "Description": "Yes! It's possible to toast sweet potatoes in the toaster.",
+    "Time": "  10min",
+    "Difficulty": " Easy",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a49086/sweet-potato-toast-recipe/"
+  }
+]
