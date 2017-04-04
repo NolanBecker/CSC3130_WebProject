@@ -14,14 +14,17 @@ urlAllRecipes = 'http://allrecipes.com'
 pageAllRecipes = requests.get(urlAllRecipes + '/recipes/?sort=Newest')
 soup = BeautifulSoup(pageAllRecipes.content, 'lxml')
 
+name = "No name found"
+description = "No description found"
+
 for grid in soup.find_all(id="grid"):
     for position in grid.find_all("article", class_=re.compile("grid-col--fixed-tiles$")):
         if position.find("ar-save-item") is not None:
-            nameTag = position.find("ar-save-item")
-            name = nameTag['data-name'].replace('"', '').strip()
-            description = position.find(class_="rec-card__description").string
-            if description is None:
-                description = "No description found."
+            # nameTag = position.find("ar-save-item")
+            # name = nameTag['data-name'].replace('"', '').strip()
+            # description = position.find(class_="rec-card__description").string
+            # if description is None:
+            #     description = "No description found."
             ratingTag = position.find("div", class_="rating-stars")
             if ratingTag is None:
                 rating = "No rating found."
@@ -36,8 +39,14 @@ for grid in soup.find_all(id="grid"):
             servings = "No serving size"
             if link is not "No link":
                 newSoup = BeautifulSoup(requests.get(link).content, 'lxml')
-                for serv in newSoup.find_all("span", class_="servings-count"):
-                    print(serv)
+                # for serv in newSoup.find_all("span", class_="servings-count"):
+                #     print(serv)
+                for h1 in newSoup.find_all("h1", itemprop="name"):
+                    if h1.text is not None:
+                        name = h1.text
+                for div in newSoup.find_all("div", itemprop="description"):
+                    if div.text is not None:
+                        description = div.text.replace("\r\n", "").strip()[1:][:-1]
 
             response.append(OrderedDict([('Name', name),
                                          ('Description', description),
