@@ -48,7 +48,7 @@ for grid in soup.find_all(id="grid"):
             allRecipes.append(OrderedDict([('Name', name),
                                          ('Description', description),
                                          ('Author', author),
-                                         ('Rating', rating),
+                                         ('Rating', round(float(rating), 1)),
                                          ('Link', link)]))
 
 urlDelish = 'http://www.delish.com'
@@ -57,6 +57,7 @@ soup = BeautifulSoup(pageDelish.content, 'lxml')
 
 name = ''
 description = ''
+author = ''
 time = ''
 difficulty = ''
 serves = ''
@@ -73,9 +74,12 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
                 if h1.text is not None:
                     name = h1.text
             for div in newSoup.find_all('div', class_='recipe-page--body-content'):
-                p = div.find('p')
-                if p.text is not None:
-                    description = p.text
+                for p in div.find_all('p'):
+                    if p != '<p></p>':
+                        description = p.text
+            for span in newSoup.find_all('span', itemprop='name'):
+                if span is not None:
+                    author = span.text
             for timeTag in newSoup.find_all('time', itemprop='totalTime'):
                 if timeTag.text is not None:
                     time = timeTag.text
@@ -87,9 +91,12 @@ for div in soup.find_all('div', class_='landing-feed--special-content'):
                     serves = div.text
                     serves = serves.replace("\nServes: \n", "").strip()
                     serves = serves.replace("Yield: \n", "").strip()
+                    serves = serves.replace(" servings", "").strip()
+                    serves = serves.replace(" Servings", "").strip()
 
             delish.append(OrderedDict([('Name', name),
                                          ('Description', description),
+                                         ('Author', author),
                                          ('Time', time),
                                          ('Difficulty', difficulty),
                                          ('Serves', serves),
@@ -127,7 +134,7 @@ for section in soup.find_all('section', role='main'):
                             author = a.text
                     for span in newSoup.find_all('span', class_='rating'):
                         if span is not None:
-                            rating = span.text
+                            rating = span.text.replace("/4", "").strip()
                     for span in newSoup.find_all('span', itemprop='reviewCount'):
                         if span is not None:
                             reviews = span.text
@@ -141,7 +148,7 @@ for section in soup.find_all('section', role='main'):
             epicurioius.append(OrderedDict([('Name', name),
                                          ('Description', description),
                                          ('Author', author),
-                                         ('Rating', rating),
+                                         ('Rating', float(rating)),
                                          ('Reviews', reviews),
                                          ('Serves', serves),
                                          ('Link', link)]))
